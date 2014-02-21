@@ -2,8 +2,6 @@
 // This code is licensed under the MIT license (see LICENSE.txt for details)
 
 #include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
 #include "Voxelizer.h"
 #include "Voxelizer_ABuffer.h"
 
