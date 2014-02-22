@@ -1,7 +1,7 @@
 Voxelizer
 =========
 
-A fast GPU based solid voxelization library.
+A fast GPU based solid voxelization library written in C.
 
 
 Notes:
