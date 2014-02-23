@@ -66,5 +66,5 @@ int main(int argc, char** argv)
 
 	voxelizerDestroy(voxelizer);
 
-	return 1;
+	return 0;
 }
